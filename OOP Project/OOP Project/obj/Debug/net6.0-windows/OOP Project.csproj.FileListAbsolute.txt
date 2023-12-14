@@ -1,0 +1,38 @@
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP Project.csproj.AssemblyReference.cache
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP Project.csproj.GenerateResource.cache
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP Project.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP Project.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP Project.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\OOP Project.exe
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\OOP Project.deps.json
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\OOP Project.runtimeconfig.json
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\OOP Project.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\OOP Project.pdb
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP Project.csproj.CopyComplete
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP Project.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\refint\OOP Project.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP Project.pdb
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP Project.genruntimeconfig.cache
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\ref\OOP Project.dll
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP_Project.Form1.resources
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP_Project.Properties.Resources.resources
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP_Project.addNewMember.resources
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP_Project.addNewCoach.resources
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP_Project.addNewStaff.resources
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP_Project.information.resources
+C:\Users\Toshiba\source\repos\OOP Project\OOP Project\obj\Debug\net6.0-windows\OOP_Project.search.resources
